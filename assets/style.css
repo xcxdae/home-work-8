@@ -9,10 +9,8 @@
 }
 
 .centred {
-  position: absolute;
-  width: 100vw;
-  margin-left: calc(-50% + 2px);
-  margin-right: calc(50% - 2px);
+  width: 180px;
+  margin: 0 auto;
 }
 
 .float-container {
@@ -88,6 +86,7 @@
 .block14 {
   float: right;
   margin-top: 60px;
+  margin-right: -20px;
 }
 
 .block15 {
